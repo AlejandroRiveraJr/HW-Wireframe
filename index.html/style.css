@@ -45,7 +45,7 @@ nav {
  	padding: 20px;
  	margin-bottom: 20px;
  	color: #333;
- 	background: #fff;
+ 	background: #777;
  	 font-size: 18px;
  }
   h1 {
@@ -53,14 +53,14 @@ nav {
   	padding: 10px;
   	margin-bottom: 10px;
   	color: #333;
-  	background: #aaa;
+  	background: #fff;
     font-size: 18px;
   }
   p {
   	padding: 10px;
   	margin-bottom: 10px;
   	color: #333;
-  	background: #aaa;
+  	background: #fff;
   	 font-size: 18px;
 
   }
